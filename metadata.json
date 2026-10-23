@@ -1,0 +1,6 @@
+{
+  "name": "AegisDNS Guard — VPN, Ad & 18+ Media Blocker Extension",
+  "description": "DNS-over-HTTPS privacy VPN and Chrome Extension builder with total web ad blocking, granular 18+ image/video/audio/website filtering, custom blocklists, and PIN lock protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
